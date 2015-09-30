@@ -1,6 +1,6 @@
 # walpapr
 
-> My delightful app
+> Change your background using your favourite source
 
 
 ## Dev
