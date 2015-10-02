@@ -1,4 +1,4 @@
-# walpapr
+# Random Wallpaper
 
 > Randomly hange your wallpaper using your favourite image source
 
